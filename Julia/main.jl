@@ -7,8 +7,8 @@ using LinearAlgebra
         j = 12
         while j < 14
             matrix = (Matrix(Float64.(df[i:j, :])))
-            if (det(matrix) != 0)
-                println(DataFrame(matrix, :auto))
+            println(DataFrame(matrix, :auto))
+            if (det(matrix) != 0)                
                 println(DataFrame(inv(matrix), :auto))
             else
                 println("ERROR... This matrix can't be inverted")
