@@ -51,11 +51,11 @@
 
 ### Facilidade de Escrita e Legibilidade
 
-<p align="justify"> Ambas apresentaram grande facilidade de escrita e legibilidade com códigos pequenos e diretos o programa possui fácil entendimento.
+<p align="justify"> Ambas apresentaram grande facilidade de escrita e legibilidade com códigos pequenos e diretos o programa possui fácil entendimento.</p>
 
 ### Confiabilidade
 
-<p align="justify"> As duas linguagens possuem alta confiabilidade quando o assunto é tratamento de erros, exceções e simplicidade, porém pecam na verificação de tipos, visto que ambas são fracamente tipadas.
+<p align="justify"> As duas linguagens possuem alta confiabilidade quando o assunto é tratamento de erros, exceções e simplicidade, porém pecam na verificação de tipos, visto que ambas são fracamente tipadas.</p>
 
 # Compilação e execução
 
