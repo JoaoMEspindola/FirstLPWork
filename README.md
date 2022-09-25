@@ -15,7 +15,7 @@
 
 <p align="justify">Para a resolução deste problema, foram escolhidas linguagens que lidam bem com a manipulação de dados em alta escala e que possam fazer operações matemáticas de forma trivial. Visando o aprendizado de novas linguagens, fora escolhido: <a href="https://julialang.org/">Julia</a>, uma linguagem nova e compilada conhecida por ser próxima ao python e ser mais rápida que este, e, como linguagem interpretada <a href="https://www.r-project.org/">R</a>, uma linguagem funcional comumente utilizada em aplicações estatísticas.</p>
 
-## Avaliação das linguagems
+## Avaliação das linguagens
 
 <table border="1">
     <tr>
