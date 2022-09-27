@@ -5,7 +5,7 @@ using LinearAlgebra
         df = DataFrame(XLSX.readtable("ExcelFile.xlsx", "Plan1", "B:M"))
         i = 1
         j = 12
-        while j < 6200
+        while j < 16
             matrix = (Matrix(Float64.(df[i:j, :])))
             println(DataFrame(matrix, :auto))
             if (det(matrix) != 0)                
